@@ -14,11 +14,18 @@ body{
 	color: rgb(255, 255, 255);
 	font-family: 'Century Gothic' , sans-serif;
 	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
+	border-radius: 25px;
+  border: 1px solid rgba(1, 104, 206, 0.985);
+  padding: 20px; 
+  width: 600px;
+   
 }
 .box-img{
 	border-radius: 50%;
 	width: 200px;
 	height: 200px;
+	
+	
 }
 .box h1{
 	font-size: 40px;
@@ -49,5 +56,5 @@ ul{
   transition: all ease-in-out 250ms;
 }
 .box li a:hover{
-  color: #525151;
+  color: #000000;
 }
