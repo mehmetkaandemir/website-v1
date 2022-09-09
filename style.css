@@ -2,7 +2,8 @@ body{
 	margin: 0;
 	padding: 0;
 	background: url(background1.jpg) no-repeat;
-	background-size: cover; 
+  background-size: auto; 
+  background-color: black;
 }
 .box{
 	width: 600px;
